@@ -16,7 +16,7 @@ class Spider:
         self.end = end
         self.base_url = 'https://bing.ioliu.cn/'
         self.url = None
-        self.dir = 'data/'
+        self.dir = '~/Pictures/bing_wallpaper'
         self.file = None
         self.path = None
         self.img = None
